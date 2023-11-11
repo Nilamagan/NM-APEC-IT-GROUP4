@@ -7,10 +7,10 @@ For
 E-commerce website 
  
 Prepared by:- 
-Mohanraj J
-Gopi M
-Ganesan K 
-Nilamagan J 
+Mohanraj J,
+Gopi M,
+Ganesan K, 
+Nilamagan J, 
  
   
 Academic Year: 2023-2024 
